@@ -1,0 +1,1 @@
+int circleOfNumbers(int n, int fst) => ((fst + n/2) % n).round();
