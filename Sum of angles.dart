@@ -1,0 +1,1 @@
+int angle(int n) => (n - 2) * 180;
